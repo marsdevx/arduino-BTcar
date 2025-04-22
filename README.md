@@ -6,6 +6,7 @@
 
 <div align="center">
 
+  [![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/marsdevx/arduino-BTcar?logoColor=white&labelColor=2C2C2C&label=Last%20Commit&color=8A2BE2&logo=mark-github)](https://github.com/marsdevx/arduino-BTcar/commits/main "Last Commit")
   [![Languages](https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Languages&message=Arduino%20|%20CPP&color=D32F2F&logo=file-code)](https://docs.arduino.cc/language-reference "Languages")
   <br>
   [![Supported Platforms](https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Platform&message=Android&color=748ADB&logo=android)](https://github.com/marsdevx/arduino-BTcar/blob/main/controller.apk "Supported Platforms")
